@@ -192,7 +192,7 @@
 
             <!-- Add your profile picture here -->
 
-            <img src="/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images/IMG-20250327-WA0004.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="/storage/emulated/0/Download/compressjpeg/IMG-20250327-WA0004-min.jpg" alt="Your Profile Picture" class="profile-picture">
 
             <h1>S Rajeswari</h1>
 
@@ -320,7 +320,7 @@
 
             <h2>Resume</h2>
 
-            <a href="/storage/emulated/0/Pictures/Canva/White Simple Student CV Resume_20250403_125422_0000.png"_blank" class="download-button">Download CV</a>
+            <a href="/storage/emulated/0/Download/png2jpg/White Simple Student CV Resume_20250403_125422_0000.jpg"_blank" class="download-button">Download CV</a>
 
         </center>
 
